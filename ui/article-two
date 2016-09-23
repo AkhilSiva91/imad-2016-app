@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>
+            Article Two | Akhil Siva
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale-1" /> 
+    </head>
+    <body>
+        <div>
+           <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>Article Two</h3>
+        <div> Sep, 10, 2016</div>
+        
+        <div>
+            <p>
+               Conatant section of Article Two 
+            </p>
+        </div>
+    </body>
+</html>
