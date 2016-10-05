@@ -1,9 +1,10 @@
 body {
-    color:white;
+    color: white;
     font-family: sans-serif;
     margin-top: 50px;
-    background-image: url(http://www.siwallpaperhd.com/wp-content/uploads/2015/08/pattern_lights_wallpaper.jpg);
+    background-image:url(http://www.siwallpaperhd.com/wp-content/uploads/2015/08/pattern_lights_wallpaper.jpg);
     background-position: center;
+    
 }
 
 .center {
