@@ -1,6 +1,6 @@
 console.log('Loaded!');
 
-var element = document.getElementById('maintext');
+var element = document.getElementById('main-text');
 element.innerHTML = 'New Text Content';
 var img = document.getElementById('madi');
 
