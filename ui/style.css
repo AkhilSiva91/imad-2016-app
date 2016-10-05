@@ -27,6 +27,8 @@ body {
     height: 200px;
 }
 .container{
+    border: 3px solid white;
+    
     max-width: 800px;
     margin: 0 auto;
     color: #4a4a4a;
